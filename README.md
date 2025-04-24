@@ -13,14 +13,14 @@ This roadmap is your structured, curated, and up-to-date path — built with rea
 
 | Phase | What You’ll Learn | Start Learning |
 |-------|-------------------|----------------|
-| 1️⃣ **Python & Tools** | Programming fundamentals, Git, Jupyter, virtual environments, data libraries | [📂 Phase 1](./Documents/Phase-1_Python-Programming-&-Tools.docx) |
-| 2️⃣ **Machine Learning** | EDA, supervised/unsupervised learning, model evaluation, stats | [📂 Phase 2](./Documents/Phase-2_Machine-Learning-Fundamentals.docx) |
-| 3️⃣ **MLOps & Deployment** | ML pipelines, CI/CD, tracking, model deployment, Docker | [📂 Phase 3](../Documents/Phase-3_MLOps-&-Deployment.docx) |
-| 4️⃣ **Deep Learning** | Neural nets, CNNs, RNNs, transformers, training best practices | [📂 Phase 4](./Documents/Phase-4_Deep-Learning-Foundations.docx) |
-| 5️⃣ **Core GenAI Techniques** | Prompt engineering, GPTs, diffusion, evaluation, multimodal AI | [📂 Phase 5](./Documents/Phase-5_Core-Generative-AI-Techniques.docx) |
-| 6️⃣ **Advanced GenAI Systems** | LoRA/QLoRA fine-tuning, RAG, Agents (AutoGPT, BabyAGI), safety & ethics | [📂 Phase 6](./Documents/Phase-6_Advanced-Generative-AI-Systems.docx) |
-| 7️⃣ **Specialization & Capstone** | Domain-driven apps (health, finance, education), full-stack GenAI systems | [📂 Phase 7](./Documents/Phase-7_Specialization-&-Capstone-Projects.docx) |
-| 8️⃣ **RL, Vision-Language & Robotics** | Reinforcement learning, multimodal AI, embodied agents & robotics | [📂 Phase 8](./Documents/Phase-8_Reinforcement-Learning-&-Vision-Language-Integration-&-Robotics.docx) |
+| 1️⃣ **Python & Tools** | Programming fundamentals, Git, Jupyter, virtual environments, data libraries | [📂 Phase 1](./Documents/Phase-1.md) |
+| 2️⃣ **Machine Learning** | EDA, supervised/unsupervised learning, model evaluation, stats | [📂 Phase 2](./Documents/Phase-2.md) |
+| 3️⃣ **MLOps & Deployment** | ML pipelines, CI/CD, tracking, model deployment, Docker | [📂 Phase 3](./Documents/Phase-3.md) |
+| 4️⃣ **Deep Learning** | Neural nets, CNNs, RNNs, transformers, training best practices | [📂 Phase 4](./Documents/Phase-4.md) |
+| 5️⃣ **Core GenAI Techniques** | Prompt engineering, GPTs, diffusion, evaluation, multimodal AI | [📂 Phase 5](./Documents/Phase-5.md) |
+| 6️⃣ **Advanced GenAI Systems** | LoRA/QLoRA fine-tuning, RAG, Agents (AutoGPT, BabyAGI), safety & ethics | [📂 Phase 6](./Documents/Phase-6.md) |
+| 7️⃣ **Specialization & Capstone** | Domain-driven apps (health, finance, education), full-stack GenAI systems | [📂 Phase 7](./Documents/Phase-7.md) |
+| 8️⃣ **RL, Vision-Language & Robotics** | Reinforcement learning, multimodal AI, embodied agents & robotics | [📂 Phase 8](./Documents/Phase-8.md) |
 
 
 ### **🎓 What You'll Build**
