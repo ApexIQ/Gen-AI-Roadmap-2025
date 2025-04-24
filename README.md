@@ -3,13 +3,13 @@
 > Learn. Build. Specialize. Deploy. Repeat.
 
 
-### **🧠 Why This Roadmap?**
+## **🧠 Why This Roadmap?**
 
 Generative AI is transforming the way we think, learn, and build — from code generation and AI art to research, tutoring systems, co-pilots, and autonomous agents. But most learners face the same challenge: **where do I start, and how do I go deep?**
 
 This roadmap is your structured, curated, and up-to-date path — built with real-world tools, hands-on projects, and a deep focus on **how to apply GenAI across industries and specializations.**
 
-### **🗺️ Roadmap Overview**
+## **🗺️ Roadmap Overview**
 
 | Phase | What You’ll Learn | Start Learning |
 |-------|-------------------|----------------|
@@ -23,7 +23,7 @@ This roadmap is your structured, curated, and up-to-date path — built with rea
 | 8️⃣ **RL, Vision-Language & Robotics** | Reinforcement learning, multimodal AI, embodied agents & robotics | [📂 Phase 8](./Documents/Phase-8.md) |
 
 
-### **🎓 What You'll Build**
+## **🎓 What You'll Build**
 Throughout this roadmap, you’ll work on several guided projects and a final capstone, such as:
 - 🧑‍💬 Prompt-powered chat assistants  
 - 📚 Document-based Q&A with RAG pipelines  
@@ -33,7 +33,7 @@ Throughout this roadmap, you’ll work on several guided projects and a final ca
 - 🧠 Simulated robots with RL-based navigation and instruction following  
 - 🧪 Capstone: A domain-specific GenAI application you can deploy and share
 
-### **🧰 Technologies You'll Use**
+## **🧰 Technologies You'll Use**
 
 | Category | Tools & Libraries |
 |----------|-------------------|
@@ -46,7 +46,7 @@ Throughout this roadmap, you’ll work on several guided projects and a final ca
 | RL & Robotics | OpenAI Gym, RLlib, Unity ML-Agents, ROS, Habitat AI |
 | Multimodal | CLIP, BLIP, GPT-4V, Gemini API |
 
-### **🧪 Final Capstone Project**
+## **🧪 Final Capstone Project**
 At the end of the roadmap, you’ll create a complete GenAI system:
 - 🔍 Choose your domain (e.g., healthcare, finance, creativity, robotics)  
 - ⚙️ Combine RAG, prompting, or fine-tuning  
@@ -54,14 +54,14 @@ At the end of the roadmap, you’ll create a complete GenAI system:
 - 🧠 Add agent memory, planning, or tool use  
 - 🚀 Share your app, blog, or walkthrough online
 
-### **🌍 Who This Is For**
+## **🌍 Who This Is For**
 - 🧑‍🎓 Students building portfolio-worthy AI capstones  
 - 👩‍💻 Devs pivoting into LLMs, GenAI apps, or ML engineering  
 - 🧠 Researchers replicating papers or building agents  
 - 🏢 Professionals deploying AI into real domains and industries
 
 
-### **🌟 Final Thought**
+## **🌟 Final Thought**
 > This is more than a roadmap — it’s a builder’s toolkit, a research springboard, and a career-launcher.
 
 The future belongs to those who can **build with AI**, not just consume it.  
