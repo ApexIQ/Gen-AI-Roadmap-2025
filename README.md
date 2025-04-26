@@ -46,6 +46,11 @@ Throughout this roadmap, you’ll work on several guided projects and a final ca
 | RL & Robotics | OpenAI Gym, RLlib, Unity ML-Agents, ROS, Habitat AI |
 | Multimodal | CLIP, BLIP, GPT-4V, Gemini API |
 
+## **Generative AI Timeline**
+
+![Generative AI Timeline](https://res.cloudinary.com/dii4fjxlk/image/upload/v1745671666/genai-timeline_ca3yov.jpg)
+
+
 ## **🧪 Final Capstone Project**
 At the end of the roadmap, you’ll create a complete GenAI system:
 - 🔍 Choose your domain (e.g., healthcare, finance, creativity, robotics)  
