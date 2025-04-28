@@ -2,6 +2,9 @@
 > **Master Generative AI — from Python to Agents, RAG, Multimodal AI, and Robotics**  
 > Learn. Build. Specialize. Deploy. Repeat.
 
+<iframe width="560" height="315" src="https://youtu.be/SFHnUYIb_A8?si=jzkIqefyAHctSfKV" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ## **🧠 Why This Roadmap?**
 
